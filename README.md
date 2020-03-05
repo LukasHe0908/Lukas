@@ -53,16 +53,9 @@
 * X-Ray材质包:https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible  
 * Impact：https://impactclient.net/  
 * MCTAP/IP加速/：https://mctap.cn/  
-* 账号/密码:lukashe908@outlook.com/* * * * * * @ * * * # 4
-##### PS2020 链接：https://pan.baidu.com/s/197ul-kEARcsKYoVYx42A8g | 提取码：mhcr  
-##### 永硕E盘：http://lukas.ys168.com/  
+##### PS2020 链接：https://pan.baidu.com/s/197ul-kEARcsKYoVYx42A8g | 提取码：mhcr   
 ### VPN  
 共享获取帐号：  
 https://blog.netimed.cn/ssr.html  
 https://free-ss.best  
 https://fanqiang.network/  
-https://www.jxhgz.com/2019/10/ssrv2ray.html （这里有我自己搭的两个帐号，可供应急使用，切务滥用）  
-迷雾通用户名：cutterr：密码：258369  
-uuid:18df8d14-5f50-449f-abfa-881455c3ae1f  
-额外参数：  
--Xincgc -Xms32M -Xms32M -Xss512K -XX:+AggressiveOpts -XX:+UseCompressedOops -XX:+UseCMSCompactAtFullCollection -XX:+UseFastAccessorMethods -XX:ParallelGCThreads=1 -XX:+UseConcMarkSweepGC -XX:CMSFullGCsBeforeCompaction=2 -XX:CMSInitiatingOccupancyFraction=70 -XX:-DisableExplicitGC -XX:TargetSurvivorRatio=90  
