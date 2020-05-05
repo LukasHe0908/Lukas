@@ -40,7 +40,7 @@
 * 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
 * 区块删除：https://github.com/Querz/mcaselector  
 * 要塞定位：https://www.mcbbs.net/forum.php?mod=viewthread&tid=799313 | 工具地址:https://lintx.github.io/minecraft/calc.html  
-* NullCraft Minecraft Server Pro：https://nullcraft.org/d/6-nullcraft-minecraft-server-pro (5/5/2020测失效)  
+* 灵工艺软件下载：https://docs.nullcraft.org/resource/software-download  
 * Spritecraft 1.1.6 像素画生成器：https://www.mcbbs.net/thread-933010-1-1.html  
 * Fabric：https://fabricmc.net/use/  
 * Paper：https://ci.destroystokyo.com
