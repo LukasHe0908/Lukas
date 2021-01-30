@@ -22,8 +22,8 @@
 ### BiliBili
 * B站录播姬：https://rec.danmuji.org/  
 * 实用小工具：https://www.guoxingjun.com/  
-*MSDN:https://msdn.itellyou.cn/  
-*图标下载：https://www.easyicon.net/  
+* MSDN:https://msdn.itellyou.cn/  
+* 图标下载：https://www.easyicon.net/  
 * ip查询：https://www.ipaddress.com/  
 ### Minecraft  
 * MC_UUID查找：https://mcuuid.net/  
