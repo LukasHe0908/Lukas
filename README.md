@@ -1,8 +1,4 @@
 ####免费申请OneDrive-5T网盘：https://www.shawnlin.cn/onedrive/#%E5%87%86%E5%A4%87%E6%95%99%E8%82%B2%E7%89%88%E9%82%AE%E7%AE%B1
-* 短网址：http://mrw.so/
-* 加快github下载代码的速度：https://blog.csdn.net/mist99/article/details/80602090  
-* 编写git自述文件：https://blog.csdn.net/weixin_40449300/article/details/79682838  
-* 免费内网穿透：https://www.natfrp.com/page/panel/  
 * Xdown多线程下载：https://xdown.org/index.htm  
 * PotPlayer中文版：http://globalpotplayer.cn/  
 * Microsoft .NET Framework 4下载：https://www.microsoft.com/zh-cn/download/details.aspx?id=17718
@@ -13,7 +9,6 @@
 * PNG转ICO：https://www.aconvert.com/cn/icon/png-to-ico/  
 * 在线视频剪辑：https://online-video-cutter.com/cn/  
 * 在线文字识别：http://ocrmaker.com/  
-* Desktop Goose/桌面鹅：https://samperson.itch.io/desktop-goose
 * ICOFormat：http://www.telegraphics.com.au/sw/ | 使用方法：复制到PS目录下的"/Required/Plugins/File Formats/"  
 * VMware Workstation Pro下载：https://my.vmware.com/cn/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0  
 * 暴风激活：http://www.baofengjihuo.com/  
@@ -41,7 +36,6 @@
 * 中文Minecraft Wiki:https://minecraft-zh.gamepedia.com/Minecraft_Wiki  
 * 区块删除：https://github.com/Querz/mcaselector  
 * 要塞定位：https://www.mcbbs.net/forum.php?mod=viewthread&tid=799313 | 工具地址:https://lintx.github.io/minecraft/calc.html  
-* 灵工艺软件下载：https://docs.nullcraft.org/resource/software-download  
 * Spritecraft 1.1.6 像素画生成器：https://www.mcbbs.net/thread-933010-1-1.html  
 * Fabric：https://fabricmc.net/use/  
 * Paper：https://ci.destroystokyo.com
@@ -53,9 +47,3 @@
 * X-Ray材质包:https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible  
 * Impact：https://impactclient.net/  
 * MCTAP/IP加速/：https://mctap.cn/  
-##### PS2020 链接：https://pan.baidu.com/s/197ul-kEARcsKYoVYx42A8g | 提取码：mhcr   
-### VPN  
-共享获取帐号：  
-https://blog.netimed.cn/ssr.html  
-https://free-ss.best  
-https://fanqiang.network/  
